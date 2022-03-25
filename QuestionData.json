@@ -48,15 +48,15 @@
       "a = b"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "it's carType"
+    "feedback": "= это присваивание, != и == знаки неравно и равно"
   },
   {
-    "question": "Можно ли использовать конструкцию a += b ?",
+    "question": "Можно ли использовать выражение a++ ?",
     "answers": [
       "да",
       "нет"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "it's carType"
+    "feedback": "да, это равноценно a = a+1"
   }
 ]
