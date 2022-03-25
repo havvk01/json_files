@@ -39,5 +39,24 @@
     ],
     "correctAnswerIndex": 2,
     "feedback": "it's carType"
+  },
+  {
+    "question": "Укажите строку, в которой записан оператор присваивания.",
+    "answers": [
+      "a != b",
+      "a == b",
+      "a = b"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "it's carType"
+  },
+  {
+    "question": "Можно ли использовать конструкцию a += b ?",
+    "answers": [
+      "да",
+      "нет"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "it's carType"
   }
 ]
