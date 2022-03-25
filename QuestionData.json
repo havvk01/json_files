@@ -1,16 +1,16 @@
 [
   {
-    "question": "What's the keyword for declaring a new variable?",
+    "question": "Какое ключевое слово используется для объявления новой переменной?",
     "answers": [
       "var",
-      "vv",
+      "v",
       "variable"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "var is the keyword use to declare a new variable"
+    "feedback": "var используется для объявления новой переменной"
   },
   {
-    "question": "What's the keyword for declaring a new constant?",
+    "question": "Какое ключевое слово используется для объявления новой неизменямой переменной?",
     "answers": [
       "constant",
       "let",
@@ -18,5 +18,26 @@
     ],
     "correctAnswerIndex": 1,
     "feedback": "let is the keyword use to declare a new constant"
+  },
+  {
+    "question": "Укажите тип данных, обеспечивающий наибольшую точность для хранения дробных чисел.",
+    "answers": [
+      "integer",
+      "float",
+      "double"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "float может держать 7 знаков после запятой (4 байта), double может держать 15 знаков после запятой (8 байт)"
+  },
+  {
+    "question": "Выберите среди приведённых вариантов допустимые в качестве имён констант или переменных в языке Swift",
+    "answers": [
+      "_$_$",
+      "$currency",
+      "carType",
+      "a4"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "it's carType"
   }
 ]
